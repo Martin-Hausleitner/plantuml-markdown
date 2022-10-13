@@ -1,6 +1,6 @@
 #Test plant uml
 
-![your-UML-diagram-name](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://github.com/Martin-Hausleitner/plantuml-markdown/blob/main/example.plantuml)
+![your-UML-diagram-name](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Martin-Hausleitner/plantuml-markdown/main/example.plantuml)
 
 
 
