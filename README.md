@@ -4,13 +4,4 @@
 
 
 
-```plantuml
-@startuml
-left to right direction
-:user: -left-> (dummyLeft)
-:user: -right-> (dummyRight)
-:user: -up-> (dummyUp)
-:user: -down-> (dummyDown)
-@enduml
-```
 
