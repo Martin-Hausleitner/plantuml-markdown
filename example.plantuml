@@ -1,4 +1,7 @@
+' ALT + D
+
 @startuml
+
 left to right direction
 :user: -left-> (dummyLeftTEST)
 :user: -right-> (TEST)
