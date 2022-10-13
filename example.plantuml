@@ -1,6 +1,6 @@
 @startuml
 left to right direction
-:user: -left-> (dummyLeft)
+:user: -left-> (dummyLeftTEST)
 :user: -right-> (dummyRight)
 :user: -up-> (dummyUp)
 :user: -down-> (dummyDown)
