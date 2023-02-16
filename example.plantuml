@@ -3,7 +3,7 @@
 @startuml
 
 left to right direction
-:user: -left-> (dummyLeftTEST)
+:user: -left-> (dummyLeftMAXI)
 :user: -right-> (TEST)
 :user: -up-> (dummyUp)
 :user: -down-> (dummyDown)
